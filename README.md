@@ -1,2 +1,2 @@
 # Remember
-An Android notes app using SQLite with all basic CRUD operations
+An note taking Android app using SQLite for all basic CRUD operations
